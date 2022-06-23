@@ -1,0 +1,7 @@
+
+body {
+  background: linear-gradient(lightblue, lightgreen);
+  height: 100vh;
+  overflow: hidden;
+  font-family: Consolas;
+}
