@@ -1,6 +1,6 @@
 - ! Hi, I’m @Issah45
-- ? I’m interested in coding, linux and the raspberry pi
-- / I’m currently learning coding
+- ? I’m interested in coding, linux and raspberry pi *pico*s
+- / I’m currently learning coding and engineering?
 - = I’m looking to collaborate on coding projects
 - " How to reach me by my email issuseless4@gmail.com
 
